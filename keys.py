@@ -1,3 +1,5 @@
+# Enter the required:
+
 account_sid = 'TWILIO_ACCOUNT_SID'
 auth_token = 'TWILIO_AUTH_TOKEN'
 
